@@ -16,7 +16,3 @@ NeoLog can export your procedure log as CSV (matching the BAPM spreadsheet forma
 
 **What is NeoLog Pro?**
 NeoLog Pro is an annual subscription that unlocks unlimited procedure entries and CSV/PDF exports. Free users can log up to 5 procedures.
-
-## Contact
-
-For urgent issues, email 18617879+gm5dna@users.noreply.github.com.
